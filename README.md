@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rohitadmin
 - 👀 I’m interested in developing IoT application, MERN application development
 - 🌱 I’m currently developing my programming skill
-- 💞️ I’m looking to get hire on some organization from which i can grow my skill
 - 📫 How to reach me developerrohitkasera@gmail.com
 - visit myself as: https://sites.google.com/aus.ac.in/rohitkk/home?authuser=0
 
